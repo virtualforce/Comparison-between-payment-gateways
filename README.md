@@ -1,4 +1,4 @@
-#Comparison between payment gateways
+# Comparison between payment gateways
 
 ### Stripe:
 Stripe is a widely used Payment gateway in the world but it has some pros and cons which are:
